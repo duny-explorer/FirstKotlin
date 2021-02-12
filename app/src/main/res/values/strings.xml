@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstKotlin</string>
+    <string name="message">0</string>
+    <string name="button">Click me</string>
+</resources>
